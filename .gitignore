@@ -1,0 +1,29 @@
+# OS 임시 파일 (Mac & Windows)
+.DS_Store
+Thumbs.db
+db.db
+
+# JetBrains 계열 IDE (IntelliJ, PyCharm, WebStorm 등)
+.idea/
+*.iml
+
+# VS Code 설정 파일
+.vscode/
+
+# Python 컴파일 및 가상환경 파일 (파이썬 유저용)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Java 컴파일 파일 (자바 유저용)
+*.class
+out/
+build/
+
+# C / C++ 빌드 파일
+*.o
+*.obj
+*.exe
+*.out
