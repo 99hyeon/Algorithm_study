@@ -100,6 +100,8 @@ git commit -m "[PGS] 예시제목 / 레벨2 / 1분 / 나상준"
 
 #### 1. 리뷰하는 법
 
+<img width="523" height="501" alt="Screenshot 2026-07-16 at 10 14 28 AM" src="https://github.com/user-attachments/assets/ffd546c6-8150-49f3-8c3b-f1833ab4cf44" />
+
 - 이런식으로 읽어보시고 남겨주세요!!
 
 #### 2. Pull Request로 리뷰하는 방법   
